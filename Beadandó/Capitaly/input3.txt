@@ -1,0 +1,3 @@
+4
+P P S 1000 L 1000
+G Mohó T Taktikus C Óvatos

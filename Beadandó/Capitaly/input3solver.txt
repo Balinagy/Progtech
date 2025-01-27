@@ -1,0 +1,234 @@
+Initial stance of the fields and the players:
+______________________________________________
+Fields in the game:
+Empty property field
+Empty property field
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 10000
+Properties: None
+Tactical: Taktikus
+Money: 10000
+Properties: None
+Careful: Óvatos
+Money: 10000
+Properties: None
+
+
+______________________________________________
+Fields in the game:
+Empty property field
+Empty property field
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 10000
+Properties: None
+Tactical: Taktikus
+Money: 10000
+Properties: None
+Careful: Óvatos
+Money: 10000
+Properties: None
+
+
+Fields in the game:
+Empty property field
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 9000
+Properties: Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 8000
+Properties: None
+Careful: Óvatos
+Money: 8000
+Properties: None
+
+
+Fields in the game:
+Empty property field
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 8000
+Properties: Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 7000
+Properties: None
+Careful: Óvatos
+Money: 7000
+Properties: None
+
+
+Fields in the game:
+Empty property field
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 9000
+Properties: Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 8000
+Properties: None
+Careful: Óvatos
+Money: 8000
+Properties: None
+
+
+Fields in the game:
+Property field with house owned by Mohó
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 8000
+Properties: Property field with house owned by Mohó, Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 6000
+Properties: None
+Careful: Óvatos
+Money: 6000
+Properties: None
+
+
+Fields in the game:
+Property field with house owned by Mohó
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 12000
+Properties: Property field with house owned by Mohó, Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 4000
+Properties: None
+Careful: Óvatos
+Money: 4000
+Properties: None
+
+
+Fields in the game:
+Property field with house owned by Mohó
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 11000
+Properties: Property field with house owned by Mohó, Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 3000
+Properties: None
+Careful: Óvatos
+Money: 3000
+Properties: None
+
+
+Fields in the game:
+Property field with house owned by Mohó
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 12000
+Properties: Property field with house owned by Mohó, Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 4000
+Properties: None
+Careful: Óvatos
+Money: 4000
+Properties: None
+
+
+Fields in the game:
+Property field with house owned by Mohó
+Property field with house owned by Mohó
+Service field with fee of 1000
+Luck field with reward of 1000
+
+
+Number of players: 
+3
+
+
+Players in the game:
+Greedy: Mohó
+Money: 16000
+Properties: Property field with house owned by Mohó, Property field with house owned by Mohó
+Tactical: Taktikus
+Money: 2000
+Properties: None
+Careful: Óvatos
+Money: 2000
+Properties: None
+
+
+Óvatos has lost the game as 2. player.

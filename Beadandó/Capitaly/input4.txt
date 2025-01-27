@@ -1,0 +1,3 @@
+11
+S 2000 P L 5000 S 5000 P P S 2000 L 500 P S 300 P
+G Ákos T Béla C Cecíl T Dénes 
